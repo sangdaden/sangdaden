@@ -1,47 +1,67 @@
-# Sang Phan — Portfolio (2026)
+<h1 align="center">Hi, I'm Sang Phan 👋</h1>
+<p align="center">
+  <b>AI Engineer</b> · Ho Chi Minh City, Vietnam 🇻🇳<br/>
+  <i>Building practical applications with large language models.</i><br/>
+  <i>Xây dựng ứng dụng thực tế với các mô hình ngôn ngữ lớn.</i>
+</p>
 
-Personal portfolio of **Sang Phan**, AI Engineer (Ho Chi Minh City, Vietnam): project case studies, lightweight 3D and shader demos, bilingual copy (English and German).
+<p align="center">
+  <a href="https://sangdaden.github.io/portfolio-2025/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sang-phanthanh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/sang.phan.249/">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:thanhsangtvn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-Live: https://sangdaden.github.io/portfolio-2025/
+---
 
-> Built on the open-source portfolio template by **David Heckhoff** — see Credits & Attribution below.
+### 🇻🇳 Giới thiệu / About
 
-Built with **Vue 3**, **TypeScript**, and **Vite**. Motion via **GSAP** and **Lenis**, 3D via **three.js**, audio via **Howler**. GLSL is compiled through **vite-plugin-glsl**.
+🇻🇳 Mình là AI Engineer, tập trung vào việc biến các mô hình như **Claude, GPT, Gemini** thành sản phẩm hữu ích — từ **AI agents** và **hệ thống RAG** đến **web app tích hợp AI**.
 
-## Scripts
+🇬🇧 I'm an AI Engineer turning models like **Claude, GPT, and Gemini** into useful products — from **AI agents** and **RAG systems** to **AI-powered web apps**.
 
-| Command        | Description                          |
-| -------------- | ------------------------------------ |
-| `npm run dev`   | Dev server on port **3000** (`strictPort`) |
-| `npm run build` | `vue-tsc` then production bundle to `dist/` |
-| `npm run preview` | Serve the production build locally |
-| `npm run typecheck` | Typecheck only (`vue-tsc -b`) |
+---
 
-## Content
+### 🚀 Featured Projects / Dự án nổi bật
 
-- **Projects**: `src/content/projects/{en,de}/<slug>.ts` — copy, tags, media, links. Slugs must align with `projectIds` in `src/content/projects/index.ts`.
-- **Previews / listing**: `src/content/projects/previews/`.
-- **Tags**: variants and labels live in `src/components/tagVariants.ts` (used by `Tag.vue` and content types).
+| Project | Mô tả / Description | Links |
+|---------|--------------------|-------|
+| **One-Minute Museum** | Biến vật thường ngày thành triển lãm mini với lời thuyết minh do AI tạo · *Next.js + OpenAI* | [Live](https://one-minute-museum.vercel.app) · [Code](https://github.com/sangdaden/One-Minute-Museum) |
+| **Arena Duel** | Game bắn súng 3D đấu với AI ngay trên trình duyệt · *Three.js* | [Code](https://github.com/sangdaden/AI-Coder) |
+| **Lumina Wiki** | Trợ lý nghiên cứu AI: biến tài liệu thành wiki hỏi-đáp bằng ngôn ngữ tự nhiên · *Node.js + Python* | [Code](https://github.com/sangdaden/lumina-wiki) |
 
-## Stack (high level)
+➡️ **Xem tất cả tại portfolio / See everything:** **https://sangdaden.github.io/portfolio-2025/**
 
-- Vue 3 (`<script setup>`), SCSS with shared mixins (`src/assets/styles/`)
-- i18n helpers under `src/i18n/`
-- WebGL / GLSL under `src/three/` where applicable
+---
 
-## Credits & Attribution
+### 🛠️ Tech Stack
 
-This project was created and designed by David Heckhoff.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-If you use this project or substantial parts of its source code as a base for your own portfolio or work, attribution must be preserved.
+**Focus:** LLMs · AI Agents · RAG · Prompt Engineering · ML
 
-Please keep:
+---
 
-- existing credit comments in the source code
-- this attribution section in the README
-- a visible reference to the original project/repository in derivative works
+### 📊 GitHub Stats
 
-Original portfolio:
--> https://david-hckh.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangdaden&show_icons=true&theme=default&hide_border=true" alt="Sang's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangdaden&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
-Commercial reuse or redistribution of substantial portions of this project without permission is prohibited.
+<p align="center"><i>🐝 Be a better bee!!!</i></p>
