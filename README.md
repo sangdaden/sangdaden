@@ -1,3 +1,12 @@
+<!--
+  ẢNH: upload file ảnh của bạn vào repo này (sangdaden/sangdaden) với tên "sang.jpg"
+  (nút "Add file" → "Upload files" trên GitHub). Ảnh sẽ tự hiện ở dưới.
+  Mẹo: muốn ảnh tròn thì crop ảnh thành hình vuông/tròn trước khi upload.
+-->
+<p align="center">
+  <img src="./sang.jpg" alt="Sang Phan" width="180" />
+</p>
+
 <h1 align="center">Hi, I'm Sang Phan 👋</h1>
 <p align="center">
   <b>AI Engineer</b> · Ho Chi Minh City, Vietnam 🇻🇳<br/>
@@ -24,7 +33,7 @@
 
 ### 🇻🇳 Giới thiệu / About
 
-🇻🇳 Mình là một ông AI Engineer, mình chủ yếu tập trung vào việc biến các mô hình như **Claude, GPT, Gemini** thành sản phẩm hữu ích — từ **AI agents** và **hệ thống RAG** đến **web app tích hợp AI**.
+🇻🇳 Mình là một ông AI Engineer, mình thích tập trung vào việc biến các mô hình như **Claude, GPT, Gemini** thành sản phẩm hữu ích — từ **AI agents** và **hệ thống RAG** đến **web app tích hợp AI**.
 
 🇬🇧 I'm an AI Engineer turning models like **Claude, GPT, and Gemini** into useful products — from **AI agents** and **RAG systems** to **AI-powered web apps**.
 
