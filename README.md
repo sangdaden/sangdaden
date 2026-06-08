@@ -60,8 +60,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangdaden&show_icons=true&theme=default&hide_border=true" alt="Sang's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangdaden&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangdaden&show_icons=true&theme=default&hide_border=true" alt="Sang's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sangdaden&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center"><i>🐝 Be a better bee!!!</i></p>
