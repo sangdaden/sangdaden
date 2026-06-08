@@ -24,7 +24,7 @@
 
 ### 🇻🇳 Giới thiệu / About
 
-🇻🇳 Mình là AI Engineer, tập trung vào việc biến các mô hình như **Claude, GPT, Gemini** thành sản phẩm hữu ích — từ **AI agents** và **hệ thống RAG** đến **web app tích hợp AI**.
+🇻🇳 Mình là một ông AI Engineer, mình chủ yếu tập trung vào việc biến các mô hình như **Claude, GPT, Gemini** thành sản phẩm hữu ích — từ **AI agents** và **hệ thống RAG** đến **web app tích hợp AI**.
 
 🇬🇧 I'm an AI Engineer turning models like **Claude, GPT, and Gemini** into useful products — from **AI agents** and **RAG systems** to **AI-powered web apps**.
 
